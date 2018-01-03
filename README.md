@@ -9,3 +9,5 @@ Clone the repository and run `meteor npm i`.
 Start the project by running `meteor`.
 
 This project currenctly lacks and environment files.
+
+Checkout AngularCLI + Meteor https://github.com/Urigo/angular-meteor/tree/master/examples/angularcli-meteor
